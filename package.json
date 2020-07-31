@@ -1,6 +1,6 @@
 {
   "name": "@hwao/hwao-tinypng",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
   "bin": {
