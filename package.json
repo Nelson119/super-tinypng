@@ -1,10 +1,10 @@
 {
-  "name": "hwao-tinypng",
-  "version": "1.0.1",
+  "name": "@hwao/hwao-tinypng",
+  "version": "1.0.2",
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
   "bin": {
-    "super-tinypng": "./index.js"
+    "super-tinypng": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
