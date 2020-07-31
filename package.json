@@ -1,5 +1,5 @@
 {
-  "name": "super-tinypng-hwao",
+  "name": "hwao-tinypng",
   "version": "1.0.1",
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "author": "chesszhang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhanyuzhang/super-tinypng/issues"
+    "url": "https://github.com/Nelson119/super-tinypng/issues"
   },
-  "homepage": "https://github.com/zhanyuzhang/super-tinypng#readme"
+  "homepage": "https://github.com/Nelson119/super-tinypng#readme"
 }
