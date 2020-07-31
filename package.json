@@ -4,7 +4,7 @@
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
   "bin": {
-    "super-tinypng": "index.js"
+    "hwao-tinypng": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/Nelson119/super-tinypng/issues"
   },
-  "homepage": "https://github.com/Nelson119/super-tinypng#readme"
+  "homepage": "https://github.com/Nelson119/super-tinypng#readme",
+  "dependencies": {}
 }

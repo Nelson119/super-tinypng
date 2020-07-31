@@ -44,7 +44,7 @@ function getRandomIP() {
 function fileList(folder) {
   fs.readdir(folder, (err, files) => {
     if (err) console.error(err);
-    let fullPath = path.join(dir, file);
+    let fullPath = path.join(folder, file);
 
     if (fs.lstatSync(fullPath).isDirectory()) {
       //  console.log(fullPath);
