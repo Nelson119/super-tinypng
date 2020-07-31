@@ -1,5 +1,5 @@
 {
-  "name": "super-tinypng",
+  "name": "super-tinypng-hwao",
   "version": "1.0.1",
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhanyuzhang/super-tinypng.git"
+    "url": "git+https://github.com/Nelson119/super-tinypng.git"
   },
   "keywords": [
     "tinypng",
